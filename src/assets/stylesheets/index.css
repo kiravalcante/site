@@ -1,5 +1,11 @@
 @import "tailwindcss";
 
+@theme {
+  --font-sans: "Instrument Sans Variable", sans-serif;
+  --font-serif: "Newsreader Variable", serif;
+  --font-mono: "IBM Plex Mono", monospace;
+}
+
 @utility debug {
   border: 2px solid red;
 }
