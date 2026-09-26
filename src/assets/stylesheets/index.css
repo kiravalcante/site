@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@utility debug {
+  border: 2px solid red;
+}
+
+@utility debug-2 {
+  border: 2px solid blue;
+}
